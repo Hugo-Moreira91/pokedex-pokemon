@@ -3,9 +3,9 @@ import { createGlobalStyle } from "styled-components";
 export const GlobalStyles = createGlobalStyle`
   @font-face {
     font-family: 'Pokemon Classic';
-    src: url('/fonts/PokemonClassic.woff') format('woff'),
-         url('/fonts/PokemonClassic.woff2') format('woff2'), 
-         url('/fonts/PokemonClassic.ttf') format('truetype');
+    src: url('./fonts/PokemonClassic.woff') format('woff'),
+         url('./fonts/PokemonClassic.woff2') format('woff2'), 
+         url('./fonts/PokemonClassic.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
   }
