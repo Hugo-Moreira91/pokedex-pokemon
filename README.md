@@ -17,10 +17,10 @@
     <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub-Pages-222?logo=github&logoColor=white">
-    <img src="https://img.shields.io/github/forks/USER/REPO">
-    <img src="https://img.shields.io/github/stars/USER/REPO">
-    <img src="https://img.shields.io/github/license/USER/REPO">
-    <img src="https://img.shields.io/github/last-commit/USER/REPO">
+    <img src="https://img.shields.io/github/forks/Hugo-Moreira91/pokedex-pokemon">
+    <img src="https://img.shields.io/github/stars/Hugo-Moreira91/pokedex-pokemon">
+    <img src="https://img.shields.io/github/license/Hugo-Moreira91/pokedex-pokemon">
+    <img src="https://img.shields.io/github/last-commit/Hugo-Moreira91/pokedex-pokemon">
 </p>
 
 <h4 align="center" style="margin-bottom: 50px;">⚠️ Projeto finalizado ⚠️</h4>
@@ -28,12 +28,11 @@
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
 * [Autor](#autor)
 * [Licença](#licença)
-* [Conclusão](#conclusão)
 
-# Funcionalidades e Demonstração da Aplicação
+
+# Funcionalidades e Demonstração da Aplicação <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
 
 - `Funcionalidade 1:` o projeto possui a opção de alteração do tema, entre "claro" e "escuro". Para isso, basta clicar no ícone de pokébola, situado no canto superior direito:
 
@@ -62,3 +61,79 @@
 - `Funcionalidade 6:` na página das informações detalhadas do pokémon, há um botão para exibir mais movimentos, uma vez que a lista pode ser extensa.
 
 - `Funcionalidade 7:` a exibição dos efeitos referentes a cada abilidade foi construído sob a ideia de um acordeão.
+
+# Acesso ao projeto <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
+
+#### Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/).
+
+### Rodando na própria máquina
+
+Abra o terminal, e siga os passos abaixo:
+
+1) Clone o repositório
+
+```
+git clone https://github.com/Hugo-Moreira91/pokedex-pokemon.git
+```
+
+2) Navegue até a pasta do projeto
+
+```
+cd pokedex-pokemon
+```
+
+3) Instale as dependências do projeto (usando gerenciador de pacotes NPM)
+
+```
+npm install
+```
+
+ou simplesmente
+
+```
+npm i
+```
+
+4) Inicie o projeto
+
+```
+npm start
+```
+
+### Via GitHub Pages
+
+Caso seja do seu interesse, pode acessar o projeto rodando de forma online. Basta clicar [🔗aqui](https://hugo-moreira91.github.io/pokedex-pokemon/)!
+
+# Tecnologias utilizadas
+
+* React + Vite
+* Componentes
+* Node.js
+* JSON
+* Axios
+* Hooks
+* Single Page Aplication (SPA)
+* React Router DOM
+* React Context API
+* Styled-components 
+
+# Autor <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
+
+<div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 25px">
+    <a href="https://github.com/Hugo-Moreira91" style="display: block;">
+        <img src="https://avatars.githubusercontent.com/u/129432443?s=400&u=ff3281ddf2cf31d4a71b01d46fcb4d8452398749&v=4" style="border-radius: 50%; width:135px">
+        <sub style="display: block; margin-top: 10px; color: #fff;">Hugo César Santos Moreira</sub>
+    </a>
+    <p>Feito com ❤️</br>Entre em contato! 👇🏼</p>
+</div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugo%20Moreira-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hugo-c%C3%A9sar-santos-moreira-a10823248/)
+[![Gmail Badge](https://img.shields.io/badge/-hugo.cesar91@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hugo.cesar91@gmail.com)](mailto:hugo.cesar91@gmail.com)
+
+# Licença <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
+
+<p>O projeto Pokédex - Pokémon é licenciado pelo MIT. Para mais detalhes, acesse o arquivo da licença clicando <a href="./LICENSE">🔗aqui</a>.</p>
