@@ -2,7 +2,7 @@ import React, { useContext, useState } from "react";
 import { useParams } from "react-router-dom";
 import { usePokemonDetails } from "../../hooks/usePokemonDetails";
 import { ThemeContext } from "../../contexts/theme-context";
-import typesData from "../../../public/json/types.json";
+import typesData from "../../json/types.json";
 import Header from "../header/header";
 import Footer from "../footer/footer";
 
