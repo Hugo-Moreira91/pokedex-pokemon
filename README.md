@@ -117,7 +117,7 @@ Caso seja do seu interesse, pode acessar o projeto rodando de forma online. Bast
 * JSON
 * Axios
 * Hooks
-* Single Page Aplication (SPA)
+* Single Page Application (SPA)
 * React Router DOM
 * React Context API
 * Styled-components 
