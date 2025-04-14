@@ -30,6 +30,7 @@
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 * [Autor](#autor)
 * [Licença](#licença)
+* [Direitos](#direitos)
 
 
 # Funcionalidades e Demonstração da Aplicação <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
@@ -124,7 +125,7 @@ Caso seja do seu interesse, pode acessar o projeto rodando de forma online. Bast
 # Autor <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
 
 <div style="display: flex; flex-direction: column; align-items: flex-start; justify-content: center; gap: 25px">
-    <a href="https://github.com/Hugo-Moreira91" style="display: block;">
+    <a href="https://github.com/Hugo-Moreira91">
         <img src="https://avatars.githubusercontent.com/u/129432443?s=400&u=ff3281ddf2cf31d4a71b01d46fcb4d8452398749&v=4" style="border-radius: 50%; width:135px">
         <sub style="display: block; margin-top: 10px; color: #fff;">Hugo César Santos Moreira</sub>
     </a>
@@ -137,3 +138,7 @@ Caso seja do seu interesse, pode acessar o projeto rodando de forma online. Bast
 # Licença <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
 
 <p>O projeto Pokédex - Pokémon é licenciado pelo MIT. Para mais detalhes, acesse o arquivo da licença clicando <a href="./LICENSE">🔗aqui</a>.</p>
+
+# Direitos
+
+<p>Pokémon&reg é uma marca registrada da <i>Nintendo</i>, <i>Game Freaks</i> e <i>Creatures</i>. Todos os direitos reservados.</p>
