@@ -5,7 +5,7 @@
         <img src="./docs/media/pokeball-readme.png" alt="Pokébola" width="20">
     </h1>
     <img src="./docs/media/pokemon-logo-readme.png" alt="Arte com a logo do Pokémon" width="70%">
-    <p style="margin-top: 25px;">Projeto desafio DevQuest, o qual reúne informações de diversos pokémons através da API <a href="https://pokeapi.co/" target="_blank">🔗PokéAPI</a>, como imagem, nome, movimentos, abilidades e seus efeitos, bem como o seu(s) tipo(s).</p>
+    <p style="margin-top: 25px;">Projeto desafio DevQuest, o qual reúne informações de diversos pokémons através da API <a href="https://pokeapi.co/" target="_blank">🔗PokéAPI</a>, como imagem, nome, movimentos, habilidades e seus efeitos, bem como o seu(s) tipo(s).</p>
 </div>
 
 <p align="center" style="margin-top: 50px;">
@@ -53,15 +53,15 @@
 
 - `Funcionalidade 5:` ao clicar sobre um pokémon na tela inicial, suas informações principais serão exibidas, sendo elas:
     * Movimentos
-    * Abilidade(s)
-    * Efeitos de cada abilidade
+    * Habilidade(s)
+    * Efeitos de cada habilidade
     * Tipo(s)
 
 ![Demonstração das informações detalhadas do pokémon selecionado](docs/media/pokemon-details-execution.gif)
 
 - `Funcionalidade 6:` na página das informações detalhadas do pokémon, há um botão para exibir mais movimentos, uma vez que a lista pode ser extensa.
 
-- `Funcionalidade 7:` a exibição dos efeitos referentes a cada abilidade foi construído sob a ideia de um acordeão.
+- `Funcionalidade 7:` a exibição dos efeitos referentes a cada habilidade foi construído sob a ideia de um acordeão.
 
 # Acesso ao projeto <img src="./docs/media/ash-and-pokemons.png" style="width: 145px">
 
